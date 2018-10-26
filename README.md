@@ -1,4 +1,4 @@
-exploring cs<!DOCTYPE html>
+EXPLORING CS<!DOCTYPE html>
 <html>
  <body>
 <h1>My backs </h1>
