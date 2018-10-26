@@ -1,4 +1,4 @@
-<b>text to bold</b>EXPLORING CS<!DOCTYPE html>
+<b>EXPLORING CS</b><!DOCTYPE html>
 <html>
  <body>
 <h1>My backs </h1>
